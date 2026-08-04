@@ -2,6 +2,7 @@
 _______________________________________________________________________________________________________________________________________________________________________
 ## I created a space station using commuter aided design. I decided to select the International Space Station.
 <img width="725" height="385" alt="image" src="https://github.com/user-attachments/assets/3720248b-42d8-4a21-8cad-ad7995cc3c3b"/>
+
 ________________________________________________________________________________________________________________________________________________________
 I wanted an new challenge after creating my space shuttle. Building a space station felt like a good challenge so I decided to try and build one. Building this space station helped me grow my skills in CAD and it greatly increased my skill of creating 3D designs off of images since there were very few clear images of the International Space Station. I've always heard of the ISS so this let me research and learn more about this structure.
 ________________________________________________________________________________________________________________________________________________________
