@@ -5,7 +5,7 @@ ________________________________________________________________________________
 <img width="725" height="385" alt="image" src="https://github.com/user-attachments/assets/3720248b-42d8-4a21-8cad-ad7995cc3c3b"/>
 
 ________________________________________________________________________________________________________________________________________________________
-I wanted an new challenge after creating my space shuttle. Building a space station felt like a good challenge so I decided to try and build one. Building this space station helped me grow my skills in CAD and it greatly increased my skill of creating 3D designs off of images since there were very few clear images of the International Space Station. I've always heard of the ISS so this let me research and learn more about this structure.
+## I wanted an new challenge after creating my space shuttle. Building a space station felt like a good challenge so I decided to try and build one. Building this space station helped me grow my skills in CAD and it greatly increased my skill of creating 3D designs off of images since there were very few clear images of the International Space Station. I've always heard of the ISS so this let me research and learn more about this structure.
 ________________________________________________________________________________________________________________________________________________________
 ## How To View My Project:
 - You can find this project at https://cad.onshape.com/documents/c9e04d7f044ce51d3aecff88/w/0aaad38c1377ef1b0e20ecc2/e/80ef7e0e46cee3fefb92f013?renderMode=0&uiState=6a72479ffd00e97137ab83db
