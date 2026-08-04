@@ -9,6 +9,20 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________________
 ## How To View My Project:
 - You can find this project at https://cad.onshape.com/documents/c9e04d7f044ce51d3aecff88/w/0aaad38c1377ef1b0e20ecc2/e/80ef7e0e46cee3fefb92f013?renderMode=0&uiState=6a72479ffd00e97137ab83db
+## Sometimes you can get the 403 Forbidden error when clicking on this link, you can either click the try project button to go there or you can do other things to fix this error
+## Step-by-step explanation to fix this error:
+First way: Once clicking the link and getting the error, click the top address bar and then press enter, this refreshes the page and the error should be removed (THIS DOES NOT WORK WITH THE REFRESH BUTTON)
+1. Select the link to highlight it (shown in the image)
+
+<img width="1586" height="71" alt="image" src="https://github.com/user-attachments/assets/be51aae4-7937-4d37-9936-51e59e1d979c" />
+
+2. Press enter to refresh the page
+Second way: All you need to do is copy the link, you can do it from this page or using the steps from step 1, not including pressing enter. Once selecting the link, copy it and past it into a new tab.
+1. Copy the link
+
+<img width="917" height="167" alt="image" src="https://github.com/user-attachments/assets/b5483ef2-b02f-4de2-9e5a-1d6cd514fe16" />
+
+2. Open a new tab, paste it in, and press enter
 ________________________________________________________________________________________________________________________________________________________
 ## How to download my project:
 - You can download my project in 2 ways:
