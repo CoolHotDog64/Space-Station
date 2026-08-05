@@ -47,7 +47,11 @@ ________________________________________________________________________________
 ## Realistic example:
 I printed this file using a Bambu Labs printer, the quality isn't the best on it but that's because of the scale I printed it on
 The parts in this model are really small so the larger, the better
-It is also printed without multi color printing
+I left the print on the plate since the print was too small and my printer auto stopped so if you see errors and supports on the print, that's why
+The file is printed without multi color printing in this picture
 
-(I still need to print it)
+<img width="4032" height="3024" alt="PXL_20260805_140956781" src="https://github.com/user-attachments/assets/f64aaad2-3c13-45da-85db-a7d7d3ce498f" />
+
+________________________________________________________________________________________________________________________________________________________
+## This project was awesome to make and a great challenge! I'm so happy with the result of this project. Before this project, I was much less skilled but this project taught me how to do crucial things like realisticly refrencing images. Thank you for reading my readme!
 ________________________________________________________________________________________________________________________________________________________
