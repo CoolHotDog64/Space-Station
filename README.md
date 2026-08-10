@@ -8,6 +8,7 @@ ________________________________________________________________________________
 ## I wanted an new challenge after creating my space shuttle. Building a space station felt like a good challenge so I decided to try and build one. Building this space station helped me grow my skills in CAD and it greatly increased my skill of creating 3D designs off of images since there were very few clear images of the International Space Station. I've always heard of the ISS so this let me research and learn more about this structure.
 ________________________________________________________________________________________________________________________________________________________
 ## How To View My Project:
+## This project can be viewed from https://makerworld.com/en/models/3153870-international-space-station If you want another file besides STL you can go to this other link
 - You can find this project at https://cad.onshape.com/documents/c9e04d7f044ce51d3aecff88/w/0aaad38c1377ef1b0e20ecc2/e/80ef7e0e46cee3fefb92f013?renderMode=0&uiState=6a72479ffd00e97137ab83db
 ## Sometimes you can get the 403 Forbidden error when clicking on this link, you can either click the try project button to go there or you can do other things to fix this error
 ## Step-by-step explanation to fix this error:
